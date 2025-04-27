@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Publisher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Publisher/out/artifacts/Publisher_jar/Publisher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

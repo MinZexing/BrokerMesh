@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jar/Subscriber.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/Broker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/Publisher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

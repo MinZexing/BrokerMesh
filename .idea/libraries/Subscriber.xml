@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Subscriber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Subscriber/out/artifacts/Subscriber_jar/Subscriber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

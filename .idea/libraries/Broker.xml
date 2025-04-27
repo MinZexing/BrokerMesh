@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Broker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Broker/out/artifacts/Broker_jar/Broker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
